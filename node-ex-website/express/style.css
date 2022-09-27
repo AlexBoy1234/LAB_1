@@ -1,0 +1,15 @@
+body {
+    font-family: "Lato", sans-serif
+}
+.mySlides {
+    display: none
+}
+p{
+    color: rgb(0, 89, 255);
+}
+div{
+    border-radius: 50px;
+}
+ul{
+    font-style: italic;
+}
